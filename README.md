@@ -29,3 +29,9 @@
 • <br>
 • <br>
 • <br>
+
+<h3>Computer Science</h3>
+• <br>
+• <br>
+• <br>
+• <br>
