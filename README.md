@@ -18,7 +18,7 @@
 • YouTube Loading Bar <br>
 • Countdown Timer <br>
 
-<h4>DOM Projects/h4>
+<h4>DOM Projects</h4>
 • Chore-Door <br>
 • Piano Keys <br>
 
