@@ -19,7 +19,7 @@
 • Countdown Timer <br>
 
 <h4>Object Oriented Programming</h4>
-• 
-•
-•
-•
+• <br>
+• <br>
+• <br>
+• <br>
