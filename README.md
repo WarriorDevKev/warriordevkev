@@ -19,6 +19,12 @@
 • Countdown Timer <br>
 
 <h4>Object Oriented Programming</h4>
+• ES Classes <br>
+• Prototype <br>
+• Inheritance <br>
+• Prototypical Inheritance <br>
+
+<h4>Projects</h4>
 • <br>
 • <br>
 • <br>
