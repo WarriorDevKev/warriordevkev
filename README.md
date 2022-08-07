@@ -18,6 +18,10 @@
 • YouTube Loading Bar <br>
 • Countdown Timer <br>
 
+<h4>DOM Projects/h4>
+• Chore-Door <br>
+• Piano Keys <br>
+
 <h4>Object Oriented Programming</h4>
 • ES Classes <br>
 • Prototype <br>
