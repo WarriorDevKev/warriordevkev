@@ -39,3 +39,7 @@
 • Binary Search Tree <br>
 • <br>
 • <br>
+
+<h3>Fundamentals</h3>
+<h4>HTML+CSS Components</h4>
+• Order Summary <br>
