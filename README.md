@@ -9,7 +9,7 @@
 • Magik Eight Ball (Control Flow) <br>
 • Rock Paper Scissors (Functions) <br>
 
-<h4>Real World Components Using DOM</h4>
+<h4>DOM Real World Components</h4>
 • Off Canvas Sidebar <br>
 • Modal <br>
 • Roll Dice <br>
