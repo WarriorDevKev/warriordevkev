@@ -10,7 +10,7 @@
   - [Race Day!](#race-day)
   - [Magik Eight Ball (Control Flow)](#magik-eight-ball)
 
-- [DOM Real World Components]
+- [DOM Real World Components]()
   - [Off Canvas Sidebar](#off-canvas-sidebar)
   - [Modal](#modal)
   - [Roll Dice](#roll-dice)
@@ -18,17 +18,17 @@
   - [Accordion](#accordion)
   - [YouTube Loading Bar](#youtube-bar)
   - [Countdown Timer](#countdown-timer)
-- [DOM Projects]
+- [DOM Projects]()
   - [Off Canvas Sidebar](#chore-door)
   - [Piano Keys](#piano-keys)
-- [Object Oriented Programming]
+- [Object Oriented Programming]()
   - [ES Classes]
   - [Prototype](#)
   - [Inheritance](#)
   - [Prototypical Inheritance](#)
 - [Projects]
   -
-- [Computer Science]
+- [Computer Science Concepts]()
    - [Binary Search Tree]
    - []
 <h3>Fundamentals</h3>
