@@ -43,3 +43,22 @@
 <h3>Fundamentals</h3>
 <h4>HTML+CSS Components</h4>
 • Order Summary <br>
+
+## Table of contents
+ 
+- [JavaScript](#js-fundamentals)
+  - [Arrow Functions](#arrow-functions)
+  - [Race Day!](#race-day)
+  - [Magik Eight Ball (Control Flow)](#magik-eight-ball)
+
+- [DOM Real World Components](#dom-components)
+  - [Off Canvas Sidebar](#off-canvas-sidebar)
+  - [Modal](#modal)
+  - [Roll Dice](#roll-dice)
+  - [Todo List](#todo-list)
+  - [Accordion](#accordion)
+  - [YouTube Loading Bar](#youtube-bar)
+  - [Countdown Timer](#countdown-timer)
+- [DOM Projects](#dom-projects)
+  - [Off Canvas Sidebar](#chore-door)
+  - [Piano Keys](#piano-keys)
