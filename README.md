@@ -5,7 +5,7 @@
 
 ## JavaScript
  
-- <h2>JS Fundamentals<h2>
+- [JS Fundamentals](#)
   - [Arrow Functions](#arrow-functions)
   - [Race Day!](#race-day)
   - [Magik Eight Ball (Control Flow)](#magik-eight-ball)
