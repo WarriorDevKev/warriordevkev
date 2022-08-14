@@ -4,13 +4,13 @@
 🔭 I’m currently working on building my Full Stack Portfolio with a heavy focus on JavaScript
 <h3>JavaScript</h3>
 <h4>JS Fundamentals</h4>
-• Arrow Functions <br>
+• #Arrow Functions <br>
 • Race Day! (Control Flow) <br>
 • Magik Eight Ball (Control Flow) <br>
 • Rock Paper Scissors (Functions) <br>
 
 <h4>DOM Real World Components</h4>
-• Off Canvas Sidebar <br>
+• ##Off Canvas Sidebar <br>
 • Modal <br>
 • Roll Dice <br>
 • Todo List <br>
