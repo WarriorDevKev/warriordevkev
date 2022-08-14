@@ -2,6 +2,27 @@
 🌱 I’m currently learning Full Stack Development
 
 🔭 I’m currently working on building my Full Stack Portfolio with a heavy focus on JavaScript
+
+## Table of contents
+ 
+- [JavaScript](#js-fundamentals)
+  - [Arrow Functions](#arrow-functions)
+  - [Race Day!](#race-day)
+  - [Magik Eight Ball (Control Flow)](#magik-eight-ball)
+
+- [DOM Real World Components](#dom-components)
+  - [Off Canvas Sidebar](#off-canvas-sidebar)
+  - [Modal](#modal)
+  - [Roll Dice](#roll-dice)
+  - [Todo List](#todo-list)
+  - [Accordion](#accordion)
+  - [YouTube Loading Bar](#youtube-bar)
+  - [Countdown Timer](#countdown-timer)
+- [DOM Projects](#dom-projects)
+  - [Off Canvas Sidebar](#chore-door)
+  - [Piano Keys](#piano-keys)
+
+
 <h3>JavaScript</h3>
 <h4>JS Fundamentals</h4>
 • Arrow Functions <br>
@@ -43,22 +64,3 @@
 <h3>Fundamentals</h3>
 <h4>HTML+CSS Components</h4>
 • Order Summary <br>
-
-## Table of contents
- 
-- [JavaScript](#js-fundamentals)
-  - [Arrow Functions](#arrow-functions)
-  - [Race Day!](#race-day)
-  - [Magik Eight Ball (Control Flow)](#magik-eight-ball)
-
-- [DOM Real World Components](#dom-components)
-  - [Off Canvas Sidebar](#off-canvas-sidebar)
-  - [Modal](#modal)
-  - [Roll Dice](#roll-dice)
-  - [Todo List](#todo-list)
-  - [Accordion](#accordion)
-  - [YouTube Loading Bar](#youtube-bar)
-  - [Countdown Timer](#countdown-timer)
-- [DOM Projects](#dom-projects)
-  - [Off Canvas Sidebar](#chore-door)
-  - [Piano Keys](#piano-keys)
