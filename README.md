@@ -31,6 +31,6 @@
 - [Computer Science Concepts](/)
    - [Binary Search Tree]
    - []
-<h3>Fundamentals</h3>
+## Fundamentals
 - [HTML+CSS Components](#)
    - [Order Summary](https://warriordevkev.github.io/order-summary_comp/)
