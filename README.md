@@ -33,4 +33,4 @@
    - []
 <h3>Fundamentals</h3>
 - [HTML+CSS Components](#)
-   - [Order Summary]
+   - [Order Summary](https://warriordevkev.github.io/order-summary_comp/)
