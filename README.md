@@ -3,9 +3,9 @@
 
 🔭 I’m currently working on building my Full Stack Portfolio with a heavy focus on JavaScript
 
-## Table of contents
+## JavaScript
  
-- [JavaScript](#js-fundamentals)
+- [JS Fundamentals]()
   - [Arrow Functions](#arrow-functions)
   - [Race Day!](#race-day)
   - [Magik Eight Ball (Control Flow)](#magik-eight-ball)
