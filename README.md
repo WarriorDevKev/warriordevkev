@@ -11,7 +11,7 @@
 - [Magik Eight Ball (Control Flow)](#magik-eight-ball)
 
 <h3>DOM Real World Components</h3>
-- [Off Canvas Sidebar](#off-canvas-sidebar)
+   - [Off Canvas Sidebar](#off-canvas-sidebar)
 - [Modal](#modal)
 - [Roll Dice](#roll-dice)
 - [Todo List](#todo-list)
@@ -21,7 +21,7 @@
 <h3>DOM Projects</h3>
 - [Off Canvas Sidebar](#chore-door)
 - [Piano Keys](#piano-keys)
-<h3>[Object Oriented Programming<h3>
+<h3>[Object Oriented Programming</h3>
 - [ES Classes]
 - [Prototype](#)
 - [Inheritance](#)
