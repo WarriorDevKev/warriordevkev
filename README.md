@@ -29,6 +29,8 @@
 <h3>Projects</h3>
 - 
 <h3>Computer Science Concepts</h3>
+- Nodes
+- LinkedList
 - [Binary Search Tree]
 - []
 ## Fundamentals
